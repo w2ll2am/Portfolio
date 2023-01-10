@@ -1,5 +1,5 @@
 # Portfolio
-This is a repository of my portfolio in data science for my MPhil Data Intensive Science application. In this space is a number of assets generated from the three projects I decided to include in my Work Sample. This repository exists because of the space limitations of the 2MB limit for the work sample upload, and to provide more context for the images included in my Work Sample. This repository is designed to be used with hyperlinks embedded in the Work Sample, but feel free to explore.   
+This is a repository of my portfolio in data science. In this space is a number of assets generated from the three projects I decided to include in my Work Sample. This repository exists because of the space limitations of the 2MB limit for the work sample upload, and to provide more context for the images included in my Work Sample. This repository is designed to be used with hyperlinks embedded in the Work Sample, but feel free to explore.   
 
 The outputs of three projects are contained within here. These are:
 
