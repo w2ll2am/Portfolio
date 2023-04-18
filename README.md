@@ -1,7 +1,7 @@
 # Portfolio
 This is a repository of my portfolio in data science. In this space is a number of assets generated from the three projects I decided to include in my portfolio. This repository exists because of the space limitations of the 2MB limit for the work sample upload, and to provide more context for the images included in my portfolio. This repository is designed to be used with hyperlinks embedded in the Work Sample, but feel free to explore.   
 
-The outputs of three projects are contained within here. These are:
+The outputs of three projects are contained within this repository. A summary is contained in `Portfolio.pdf` These are:
 
  * Fluid mechanics of protoplanetary disks
  * Prevelence of racism in the UK rental market
